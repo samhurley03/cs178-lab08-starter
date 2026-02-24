@@ -1,6 +1,7 @@
 # CS178 - Lab 8 Starter
 # Lab 8 - Sam Hurley
 # Version 2
+# This is the third line
 
 REGION = "us-east-1"
 TABLE_NAME = "Movies"
